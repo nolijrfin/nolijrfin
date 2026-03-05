@@ -1,22 +1,18 @@
 <h1 align="center">Geno desu~</h1>
 
-<p align="center">
+<table>
+<tr>
+<td width="65%" valign="top">
+
+<p>
 Database Admin by profession <br>
 Script breaker by passion <br>
 Professional Googler since 2012
 </p>
 
-<p align="center">
-<img src="https://media0.giphy.com/media/Mot2nz72u4HFHEw3Fr/giphy.gif" width="500">
-</p>
-
 ---
 
 <h2>🧠 What I Actually Do</h2>
-
-<table>
-<tr>
-<td width="60%">
 
 <ul>
 <li>🗄️ Manage databases</li>
@@ -25,22 +21,9 @@ Professional Googler since 2012
 <li>🩹 Apply duct tape until the system becomes "stable"</li>
 </ul>
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://media4.giphy.com/media/uieYq6zdso9YceyKzS/giphy.gif" width="300">
-
-</td>
-</tr>
-</table>
-
 ---
 
 <h2>🛠️ My Weapons of Choice</h2>
-
-<table>
-<tr>
-<td width="60%">
 
 <pre>
 Oracle 10g/11g        ██████████████████░░ 90%
@@ -50,22 +33,9 @@ Debugging             ███████████████████�
 Documentation         ██████████████████░░░░ 80%
 </pre>
 
-</td>
-<td width="40%" align="center">
-
-<img src="https://media3.giphy.com/media/8OgZyXwljMPo1Cl4dg/giphy.gif" width="300">
-
-</td>
-</tr>
-</table>
-
 ---
 
 <h2>🧩 Current Status</h2>
-
-<table>
-<tr>
-<td width="60%">
 
 <pre>
 while(true) {
@@ -76,9 +46,10 @@ while(true) {
 </pre>
 
 </td>
-<td width="40%" align="center">
 
-<img src="https://media1.giphy.com/media/4E4KqxulO9JtRF8s6T/giphy.gif" width="300">
+<td width="35%" align="center" valign="top">
+
+<img src="https://media4.giphy.com/media/uieYq6zdso9YceyKzS/giphy.gif" width="500">
 
 </td>
 </tr>
