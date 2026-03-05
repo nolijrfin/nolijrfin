@@ -1,52 +1,85 @@
-# 👋 Hey, I'm Geno
+<h1 align="center">Geno desu~</h1>
 
-> Database Admin by profession  
-> Script breaker by passion  
-> Professional Googler since 2012
+<p align="center">
+Database Admin by profession <br>
+Script breaker by passion <br>
+Professional Googler since 2012
+</p>
 
----
-
-## 🧠 What I Actually Do
-
-- 🗄️ Manage databases
-- 🔥 Investigate why production is on fire
-- 🐚 Write shell scripts
-- 🩹 Apply duct tape until the system becomes "stable"
+<p align="center">
+<img src="https://media0.giphy.com/media/Mot2nz72u4HFHEw3Fr/giphy.gif" width="500">
+</p>
 
 ---
 
-## 🛠️ My Weapons of Choice
+<h2>🧠 What I Actually Do</h2>
 
-- Oracle 10g/11g ██████████████████░░ 90%
-- Bash/Shell Scripts ███████████████░░░░░ 75%
-- SQL █████████████████░░░ 85%
-- Debugging ███████████████████░ 95%
-- Documentation ██████████████████░░░░ 80%
+<table>
+<tr>
+<td width="60%">
+
+<ul>
+<li>🗄️ Manage databases</li>
+<li>🔥 Investigate why production is on fire</li>
+<li>🐚 Write shell scripts</li>
+<li>🩹 Apply duct tape until the system becomes "stable"</li>
+</ul>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media4.giphy.com/media/uieYq6zdso9YceyKzS/giphy.gif" width="300">
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧩 Current Status
+<h2>🛠️ My Weapons of Choice</h2>
 
-```bash
+<table>
+<tr>
+<td width="60%">
+
+<pre>
+Oracle 10g/11g        ██████████████████░░ 90%
+Bash/Shell Scripts    ███████████████░░░░░ 75%
+SQL                   █████████████████░░░ 85%
+Debugging             ███████████████████░ 95%
+Documentation         ██████████████████░░░░ 80%
+</pre>
+
+</td>
+<td width="40%" align="center">
+
+<img src="https://media3.giphy.com/media/8OgZyXwljMPo1Cl4dg/giphy.gif" width="300">
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2>🧩 Current Status</h2>
+
+<table>
+<tr>
+<td width="60%">
+
+<pre>
 while(true) {
     investigate_issue();
     blame_network();
     restart_service();
 }
-```
+</pre>
 
----
+</td>
+<td width="40%" align="center">
 
-## ⚠️ Known Error Codes
+<img src="https://media1.giphy.com/media/4E4KqxulO9JtRF8s6T/giphy.gif" width="300">
 
-ORA-01017 : Invalid username/password
-DEV-00001 : "It works on my machine"
-USR-404   : Requirements not found
-DBA-99999 : Why is this in production?
-
----
-
-## 💬 Random Wisdom
-
-`"Nothing is more permanent than a temporary fix that works."`
-
+</td>
+</tr>
+</table>
