@@ -1,4 +1,4 @@
-<h1 align="center">Geno desu~</h1>
+<h1 align="center"><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0&list=RDoHg5SJYRHA0&start_radio=1">Geno</a> desu~</h1>
 
 <table>
 <tr>
@@ -49,7 +49,7 @@ while(true) {
 
 <td width="35%" align="center" valign="center">
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1">
+<a href="https://www.youtube.com/watch?v=oHg5SJYRHA0&list=RDoHg5SJYRHA0&start_radio=1">
 <img src="https://media4.giphy.com/media/uieYq6zdso9YceyKzS/giphy.gif" width="450">
 </a>
 
