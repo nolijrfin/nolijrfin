@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://www.youtube.com/watch?v=oHg5SJYRHA0&list=RDoHg5SJYRHA0&start_radio=1">Geno</a> desu~</h1>
+<h1 align="center"><a href="https://noli-fin-jr-dba-hbewbw1.gamma.site">Geno</a> desu~</h1>
 
 <table>
 <tr>
